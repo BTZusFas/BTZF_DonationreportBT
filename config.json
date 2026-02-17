@@ -1,10 +1,10 @@
 {
   "GENERAL": {
-    "DRSNR": "20/14930",
+    "DRSNR": "",  
     "PREPARE_ONLY": true
   },
   "BTAPI": {
-      "bt_api_key" : "OSOegLs.PR2lwJ1dwCeje9vTj7FPOt3hvpYKtwKkhw",
+      "bt_api_key" : "",    
       "base_url" : "https://search.dip.bundestag.de/api/v1/",
       "endpoint_drstext" : "drucksache-text"
     },
@@ -36,4 +36,5 @@
         {"role": "user", "content": "{text}"}
       ]
     }
+
 }
